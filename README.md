@@ -1,8 +1,6 @@
 <h1 align="center">lil champs pre School</h1>
 
-<p align="center">
-<img src="Mockup.jpg" alt="Responsive Mockup">
-</p>
+
 
 ## Table of Contents
 
